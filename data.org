@@ -1,0 +1,6 @@
+Use this to find the links for data:
+https://ssw.gsfc.nasa.gov/SSW/#keywords=NLDAS_FORA0125_H%20002
+
+** Bounding box:
+   Boston Data:
+   42.18,-71.29,42.47,-70.92
