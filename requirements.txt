@@ -34,9 +34,6 @@ jupyter-core==4.5.0
 locket==0.2.0
 MarkupSafe==1.1.1
 mistune==0.8.4
-mkl-fft==1.0.14
-mkl-random==1.0.2
-mkl-service==2.3.0
 msgpack==0.6.1
 nbconvert==5.5.0
 nbformat==4.4.0
