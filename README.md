@@ -15,6 +15,6 @@ Make sure you cd into this folder, then type:
 
 
 ~~~
-pip install requirements.txt
+pip install -r requirements.txt
 ~~~
 
